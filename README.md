@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **Cloud ,Springboot and React**
 
-- 📝 I have recent presented a Paper on [Application of Block Chain in Health care System]
-
 - 💬 Ask me about **Python,React & Cloud**
 
 - 📫 How to reach me **koushikkanna47@gmail.com**
 
-- 📄 Know about my experiences through **Video Resume** https://tinyurl.com/VideoResumeMsk
+- 📄 Know about me **https://tinyurl.com/VideoResumeMsk**
 
 - 👨‍💻 Check out my portfolio at **https://srikoushik.wixsite.com/koushik**
+
+- 📝 I have recent presented a Paper on [Application of Block Chain in Health care System]
 
 - ⚡ Fun fact **An Introvert acting as an Extrovert**
 
