@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm M.S.Koushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="300" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 - 🌱 I’m currently learning **Cloud ,Springboot and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mskoushik13](https://github.com/mskoushik13)
+- 📝 I have recent presented a Paper on [Application of Block Chain in Health care System]
 
-- 💬 Ask me about **python,react,cloud**
+- 💬 Ask me about **Python,React & Cloud**
 
 - 📫 How to reach me **koushikkanna47@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/VideoResumeMsk](https://tinyurl.com/VideoResumeMsk)
+- 📄 Know about my experiences through **Video Resume** https://tinyurl.com/VideoResumeMsk
+
+- 👨‍💻 Check out my portfolio at **https://srikoushik.wixsite.com/koushik**
 
 - ⚡ Fun fact **An Introvert acting as an Extrovert**
 
