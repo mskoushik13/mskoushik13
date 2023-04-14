@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.S.Koushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer </h3>
 <img align="right" alt="Coding" width="300" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 - 🌱 I’m currently learning **Cloud ,Springboot and React**
